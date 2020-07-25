@@ -1,8 +1,12 @@
 
 npm react-create-app
-Nom run build
+
+npm run build
+
 npm i -g workbox-cli
+
 workbox wizard 
+
 workbox generateSW workbox-config.js
 
 -App Manifest
